@@ -1,0 +1,6 @@
+// this is a generated file - DO NOT EDIT
+
+TI_ARKIT_OTHER_LDFLAGS_sdk_iphoneos11__=$(inherited) -framework ARKit
+TI_ARKIT_OTHER_LDFLAGS_sdk_iphonesimulator11__=$(inherited) -framework ARKit
+OTHER_LDFLAGS[sdk=iphoneos11*]=$(inherited) $(TI_ARKIT_OTHER_LDFLAGS_sdk_iphoneos11__) 
+OTHER_LDFLAGS[sdk=iphonesimulator11*]=$(inherited) $(TI_ARKIT_OTHER_LDFLAGS_sdk_iphonesimulator11__) 

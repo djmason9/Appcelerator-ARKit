@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+iosLaunchConfigurationAttributes/ATTR_MINIFY=true
+iosLaunchConfigurationAttributes/ATTR_PROJECT_NAME=ARkit
+iosLaunchConfigurationAttributes/ATTR_UPLOAD_DEBUG_SYMBOLS=false
+iosLaunchConfigurationAttributes/appid=com.axway.arkit
+iosLaunchConfigurationAttributes/certificate=Darren Mason (WEB826LN3F)
+iosLaunchConfigurationAttributes/keychain=
+iosLaunchConfigurationAttributes/sdk_version=11.0
+iosLaunchConfigurationAttributes/uuid=ce7a4b6c-f327-4938-8f4c-01af2ff4e2a9
