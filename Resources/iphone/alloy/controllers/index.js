@@ -35,7 +35,9 @@ function Controller() {
 	var ARKit = require('ti.arkit');
 
 	var sceneView = ARKit.createSceneView({
-		scene: 'Titanium.scnassets/ti-logo.scn' });
+		scene: 'Titanium.scnassets/ship.scn',
+		lightEstimationEnabled: true
+	});
 
 	$.win.addEventListener('open', function () {
 		sceneView.run();

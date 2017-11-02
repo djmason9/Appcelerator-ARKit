@@ -7,13 +7,13 @@ BuilderIdent ProcessPCH\ /Users/dmason/Syncplicity\\\ Folders/Appcelerator_Studi
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/SDKSettings.plist 0 1501277579 1001 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/CoreServices/SystemVersion.plist 0 1504326705 490 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/module.modulemap 0 1502294620 3867 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509049017 369 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509660125 369 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/SDKSettings.plist 0 1501277579 1001 33204
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509049017 369 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/defines.h 0 1509657207 1350 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/ThirdpartyNS.h 0 1509049016 7192 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509660125 369 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/defines.h 0 1509660134 1350 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/ThirdpartyNS.h 0 1509660124 7192 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/module.modulemap 0 1501542250 23972 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/3NGB9TZNZHMR/Darwin-MI6WZSG1PNOM.pcm 0 1509642090 3427936 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/3NGB9TZNZHMR/Darwin-MI6WZSG1PNOM.pcm 0 1509660140 3427936 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/cdefs.h 0 1504303011 28078 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/_symbol_aliasing.h 0 1503649600 13981 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/_posix_availability.h 0 1504303028 2905 33188

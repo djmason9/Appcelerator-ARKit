@@ -3280,45 +3280,70 @@
 			"mtime": "2017-10-25T14:32:04.000Z",
 			"size": 175297
 		},
+		"Titanium.scnassets/frame.scn": {
+			"hash": "bd5b864680c5f8695a228c3b8b127718",
+			"mtime": "2017-11-02T22:02:03.000Z",
+			"size": 53706
+		},
+		"Titanium.scnassets/ship.scn": {
+			"hash": "df4849eb8297b7ade97a5d3382e0326d",
+			"mtime": "2017-11-02T22:07:59.000Z",
+			"size": 214794
+		},
 		"Titanium.scnassets/ti-logo.scn": {
 			"hash": "9a6283ea5647d91f6ce9da6eed18a130",
-			"mtime": "2017-11-02T21:40:42.000Z",
+			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 12095
 		},
 		"alloy_generated": {
 			"hash": "b9b62e3e10ab98f03010e1fe8362c390",
-			"mtime": "2017-11-02T21:41:40.000Z",
+			"mtime": "2017-11-02T22:15:15.000Z",
 			"size": 279
 		},
 		"Default-568h@2x.png": {
 			"hash": "7c162b498ea9255488db3baf191d55fc",
-			"mtime": "2017-10-26T20:16:55.000Z",
+			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 502634
 		},
 		"Default-667h@2x.png": {
 			"hash": "cdba9c1dc1d00bb40c107970ab1ed5f1",
-			"mtime": "2017-10-26T20:16:55.000Z",
+			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 773314
 		},
 		"Default-Landscape-736h@3x.png": {
 			"hash": "c1c4a30617405483140017e06dd17d35",
-			"mtime": "2017-10-26T20:16:55.000Z",
+			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 693902
 		},
 		"Default-Portrait-736h@3x.png": {
 			"hash": "094d644224769887dbc47220fa99cc1e",
-			"mtime": "2017-10-26T20:16:55.000Z",
+			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 708859
 		},
 		"Default@2x.png": {
 			"hash": "a9de39ae235125f5d00fe33052767898",
-			"mtime": "2017-10-26T20:16:55.000Z",
+			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 343708
 		},
+		"Titanium.scnassets/frame/mrbrainwash.jpg": {
+			"hash": "47c907be2d6bfdc86c8aff31ea65ff0b",
+			"mtime": "2017-11-02T22:02:03.000Z",
+			"size": 321194
+		},
+		"Titanium.scnassets/frame/texture.png": {
+			"hash": "bdc448fb011e71386063a14b68e1e212",
+			"mtime": "2017-11-02T22:02:03.000Z",
+			"size": 2320007
+		},
+		"Titanium.scnassets/texture.png": {
+			"hash": "4f54f703bd9643cfbc6ba114e25fd377",
+			"mtime": "2017-11-02T22:07:59.000Z",
+			"size": 349666
+		},
 		"Classes/ApplicationRouting.m": {
-			"hash": "28bd1e7dd9cdb67e35f6b4698593b082",
-			"mtime": "2017-11-02T21:13:27.000Z",
-			"size": 297764
+			"hash": "2906e222fd4a56fad1693c2036c8959d",
+			"mtime": "2017-11-02T22:15:19.000Z",
+			"size": 297930
 		},
 		"modules/ui/images/badge.png": {
 			"hash": "4c5e51e328d337a135f513bc1e958c82",
@@ -3353,11 +3378,11 @@
 	"name": "ARkit",
 	"id": "com.axway.arkit",
 	"analytics": true,
-	"publisher": "dmason",
-	"url": "",
+	"publisher": "Darren Mason",
+	"url": "undefined",
 	"version": "1.0",
 	"description": "undefined",
-	"copyright": "2017 by dmason",
+	"copyright": "2017 by Axway",
 	"guid": "a86b85f5-77b9-4547-9777-7638700b55c2",
 	"useAppThinning": true,
 	"skipJSMinification": false,

@@ -8,10 +8,10 @@
     <id>com.axway.arkit</id>
     <name>ARkit</name>
     <version>1.0</version>
-    <publisher>dmason</publisher>
-    <url/>
+    <publisher>Darren Mason</publisher>
+    <url>undefined</url>
     <description>undefined</description>
-    <copyright>2017 by dmason</copyright>
+    <copyright>2017 by Axway</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
