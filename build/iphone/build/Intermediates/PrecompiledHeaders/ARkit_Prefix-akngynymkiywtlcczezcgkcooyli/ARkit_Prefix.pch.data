@@ -7,9 +7,9 @@ BuilderIdent ProcessPCH\ /Users/dmason/Syncplicity\\\ Folders/Appcelerator_Studi
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/SDKSettings.plist 0 1501277579 1001 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/CoreServices/SystemVersion.plist 0 1504326705 490 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/module.modulemap 0 1502294620 3867 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1508960734 369 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509049017 369 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/SDKSettings.plist 0 1501277579 1001 33204
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1508960734 369 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509049017 369 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap 0 1502860599 145 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/module.modulemap 0 1502294620 3867 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/module.modulemap 0 1501542250 23972 33188
@@ -18,7 +18,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/module.modulemap 0 1501905408 293 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/simd/module.modulemap 0 1501541586 86 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Modules/module.modulemap 0 1501906204 210 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Darwin-MI6WZSG1PNOM.pcm 0 1508963096 3368628 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Darwin-MI6WZSG1PNOM.pcm 0 1509049046 3368624 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/cdefs.h 0 1504303011 28078 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/_symbol_aliasing.h 0 1503649600 13981 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/_posix_availability.h 0 1504303028 2905 33188
@@ -436,7 +436,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/ucontext.h 0 1504303024 1608 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/architecture/byte_order.h 0 1501267455 8036 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sysexits.h 0 1502173586 5472 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/ObjectiveC-1KD62J152BYGO.pcm 0 1508963096 235484 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/ObjectiveC-1KD62J152BYGO.pcm 0 1509049046 235480 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/message.h 0 1501906625 12205 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/objc.h 0 1501906981 7877 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/objc-api.h 0 1501908130 7910 33188
@@ -446,9 +446,9 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/objc-auto.h 0 1500593384 14008 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/objc-exception.h 0 1501896444 5204 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/objc/objc-sync.h 0 1501905408 1757 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/os_object-MI6WZSG1PNOM.pcm 0 1508963096 49528 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/os_object-MI6WZSG1PNOM.pcm 0 1509049046 49524 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/os/object.h 0 1501905968 8582 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Dispatch-12O7S7HHQXK9N.pcm 0 1508963097 178368 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Dispatch-12O7S7HHQXK9N.pcm 0 1509049046 178368 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/dispatch/dispatch.h 0 1503111601 1885 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/dispatch/base.h 0 1501895272 7381 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/dispatch/time.h 0 1503111601 3020 33188
@@ -461,7 +461,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/dispatch/once.h 0 1503111601 3629 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/dispatch/data.h 0 1503111601 11017 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/dispatch/io.h 0 1503111601 25737 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreFoundation-10I2D2XL7L7X9.pcm 0 1508963097 858652 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreFoundation-10I2D2XL7L7X9.pcm 0 1509049047 858652 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h 0 1501906189 3248 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/assert.h 0 1502173878 4218 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h 0 1501907881 23940 33188
@@ -507,7 +507,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFFileDescriptor.h 0 1501906189 2460 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFPlugInCOM.h 0 1501906189 4514 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Security.framework/Modules/module.modulemap 0 1502344555 285 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Security-1FYAMFTYLRNUK.pcm 0 1508963097 364148 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Security-1FYAMFTYLRNUK.pcm 0 1509049047 364148 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h 0 1502344552 3634 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Security.framework/Headers/SecBase.h 0 1502512721 50601 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Security.framework/Headers/SecCertificate.h 0 1502341926 33201 33188
@@ -523,7 +523,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Security.framework/Headers/CipherSuite.h 0 1502850465 11853 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Security.framework/Headers/SecureTransport.h 0 1502344552 58197 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Modules/module.modulemap 0 1502344689 112 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CFNetwork-929P33Y1WR7E.pcm 0 1508963097 166204 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CFNetwork-929P33Y1WR7E.pcm 0 1509049047 166200 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h 0 1502344639 1230 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetworkDefs.h 0 1502344639 744 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetworkErrors.h 0 1502333054 8413 33188
@@ -536,7 +536,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFHTTPAuthentication.h 0 1502344071 13840 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetDiagnostics.h 0 1502344071 5475 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFProxySupport.h 0 1501908564 18046 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Foundation-A3SOD99KJ0S9.pcm 0 1508963098 2905876 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Foundation-A3SOD99KJ0S9.pcm 0 1509642091 2905808 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h 0 1502860576 6570 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObjCRuntime.h 0 1503358252 25669 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h 0 1502860576 11240 33188
@@ -657,7 +657,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/FoundationLegacySwiftCompatibility.h 0 1502860580 37 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap 0 1503719412 460 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Modules/module.modulemap 0 1502344790 115 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreGraphics-1TH4RJJRQVFOC.pcm 0 1508963098 383424 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreGraphics-1TH4RJJRQVFOC.pcm 0 1509049048 383424 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h 0 1502344771 1327 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h 0 1501910994 8209 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h 0 1501900643 5067 33188
@@ -692,12 +692,12 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Modules/module.modulemap 0 1503371277 101 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Modules/module.modulemap 0 1501907856 337 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/IOSurface.framework/Modules/module.modulemap 0 1504304021 207 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/IOSurface-23REP5CSYWVMJ.pcm 0 1508963098 110044 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/IOSurface-23REP5CSYWVMJ.pcm 0 1509642091 110040 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceBase.h 0 1504304018 1403 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceObjC.h 0 1501908393 12905 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceTypes.h 0 1504304018 3086 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/IOSurface.framework/Headers/IOSurfaceRef.h 0 1501910988 23025 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/OpenGLES-14DVTE3H3DXQF.pcm 0 1508963098 422088 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/OpenGLES-14DVTE3H3DXQF.pcm 0 1509642091 422088 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h 0 1501907857 2853 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h 0 1501907858 3265 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLIOSurface.h 0 1501907857 601 33188
@@ -709,7 +709,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES3/gl.h 0 1501911304 76717 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES3/glext.h 0 1501911304 19220 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Modules/module.modulemap 0 1501907521 102 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Metal-145CFU14FVBOZ.pcm 0 1508963098 492240 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/Metal-145CFU14FVBOZ.pcm 0 1509642091 492260 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.h 0 1501907512 903 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLDefines.h 0 1501907511 764 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLTypes.h 0 1501907512 2247 33188
@@ -742,7 +742,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLArgumentEncoder.h 0 1501907510 3612 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLCaptureManager.h 0 1501907510 2670 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Metal.framework/Headers/MTLCaptureScope.h 0 1501907510 1293 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/QuartzCore-3I7S0M4UEAD0U.pcm 0 1508963098 320636 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/QuartzCore-3I7S0M4UEAD0U.pcm 0 1509642091 320512 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h 0 1503371215 192 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CoreAnimation.h 0 1503371215 1017 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CABase.h 0 1503371214 7301 33188
@@ -767,7 +767,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/CAValueFunction.h 0 1503371215 2371 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreImage.framework/Modules/module.modulemap 0 1502946034 108 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreVideo.framework/Modules/module.modulemap 0 1501907971 182 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreVideo-3FAWVAJBVREGF.pcm 0 1508963099 217428 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreVideo-3FAWVAJBVREGF.pcm 0 1509642092 217388 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CoreVideo.h 0 1501907971 1586 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVReturn.h 0 1501908807 4167 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVBase.h 0 1500159702 11761 33188
@@ -783,14 +783,14 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVMetalTextureCache.h 0 1501901546 6551 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreVideo.framework/Headers/CVHostTime.h 0 1501907971 1880 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Modules/module.modulemap 0 1503371142 105 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/ImageIO-1I03OOXLFD3W9.pcm 0 1508963099 192556 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/ImageIO-1I03OOXLFD3W9.pcm 0 1509642092 192464 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Headers/ImageIO.h 0 1503371116 350 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Headers/ImageIOBase.h 0 1503371116 2275 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageSource.h 0 1503371098 12821 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageMetadata.h 0 1503371116 37326 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageDestination.h 0 1503722988 11613 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/ImageIO.framework/Headers/CGImageProperties.h 0 1503371098 48276 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreImage-3096MN6AT838P.pcm 0 1508963099 279916 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreImage-3096MN6AT838P.pcm 0 1509642092 279920 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.h 0 1502946034 1052 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImageDefines.h 0 1502946034 814 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIVector.h 0 1502946034 2990 33188
@@ -811,7 +811,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIRenderDestination.h 0 1501912429 11058 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CIBarcodeDescriptor.h 0 1501913397 15401 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreText.framework/Modules/module.modulemap 0 1501907779 107 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreText-33OP6U69KUCI9.pcm 0 1508963099 681120 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/CoreText-33OP6U69KUCI9.pcm 0 1509049048 681120 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h 0 1501907741 2541 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTDefines.h 0 1501907741 2063 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CTFont.h 0 1501908705 71592 33188
@@ -834,7 +834,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/SFNTLayoutTypes.h 0 1502765907 67073 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/SFNTTypes.h 0 1501911224 14989 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Modules/module.modulemap 0 1502255349 327 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/FileProvider-2NY77GZB316YS.pcm 0 1508963099 130092 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/FileProvider-2NY77GZB316YS.pcm 0 1509642092 130008 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Headers/FileProvider.h 0 1502255348 534 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderDomain.h 0 1502255348 2475 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderExtension.h 0 1502254533 4262 33188
@@ -846,7 +846,7 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderActions.h 0 1502255348 11963 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderService.h 0 1502255348 2024 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/FileProvider.framework/Headers/NSFileProviderThumbnailing.h 0 1502255348 1941 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/UIKit-2LM3EQU7VVY4O.pcm 0 1508963100 2482624 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/DerivedData/ModuleCache/13VYSAE30SZNQ/UIKit-2LM3EQU7VVY4O.pcm 0 1509642092 2482516 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h 0 1503719296 8222 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKitDefines.h 0 1503719296 1991 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h 0 1503719296 1399 33188
@@ -1071,5 +1071,5 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Frameworks/DocumentManager.framework/Headers/UIDocumentBrowserAction.h 0 1503111850 1689 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizerSubclass.h 0 1503719297 3487 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGraphicsRendererSubclass.h 0 1503719297 1623 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/defines.h 0 1508963088 1145 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/ThirdpartyNS.h 0 1508963066 7192 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/defines.h 0 1509657207 1350 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/ThirdpartyNS.h 0 1509049016 7192 33188

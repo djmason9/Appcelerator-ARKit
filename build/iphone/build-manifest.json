@@ -1,9 +1,9 @@
 {
 	"files": {
 		"Info.plist": {
-			"hash": "2aafdd66ae74f783c0836eeaaef1aa04",
+			"hash": "442f8d4aaabe3ac20c7e35d041dac686",
 			"mtime": 0,
-			"size": 2253
+			"size": 2186
 		},
 		"6.2.2.GA/iphone/libTiCore.a": {
 			"hash": null,
@@ -3280,40 +3280,45 @@
 			"mtime": "2017-10-25T14:32:04.000Z",
 			"size": 175297
 		},
+		"Titanium.scnassets/ti-logo.scn": {
+			"hash": "9a6283ea5647d91f6ce9da6eed18a130",
+			"mtime": "2017-11-02T21:40:42.000Z",
+			"size": 12095
+		},
 		"alloy_generated": {
 			"hash": "b9b62e3e10ab98f03010e1fe8362c390",
-			"mtime": "2017-10-25T21:15:56.000Z",
+			"mtime": "2017-11-02T21:41:40.000Z",
 			"size": 279
 		},
 		"Default-568h@2x.png": {
 			"hash": "7c162b498ea9255488db3baf191d55fc",
-			"mtime": "2017-10-25T19:45:30.000Z",
+			"mtime": "2017-10-26T20:16:55.000Z",
 			"size": 502634
 		},
 		"Default-667h@2x.png": {
 			"hash": "cdba9c1dc1d00bb40c107970ab1ed5f1",
-			"mtime": "2017-10-25T19:45:30.000Z",
+			"mtime": "2017-10-26T20:16:55.000Z",
 			"size": 773314
 		},
 		"Default-Landscape-736h@3x.png": {
 			"hash": "c1c4a30617405483140017e06dd17d35",
-			"mtime": "2017-10-25T19:45:30.000Z",
+			"mtime": "2017-10-26T20:16:55.000Z",
 			"size": 693902
 		},
 		"Default-Portrait-736h@3x.png": {
 			"hash": "094d644224769887dbc47220fa99cc1e",
-			"mtime": "2017-10-25T19:45:30.000Z",
+			"mtime": "2017-10-26T20:16:55.000Z",
 			"size": 708859
 		},
 		"Default@2x.png": {
 			"hash": "a9de39ae235125f5d00fe33052767898",
-			"mtime": "2017-10-25T19:45:30.000Z",
+			"mtime": "2017-10-26T20:16:55.000Z",
 			"size": 343708
 		},
 		"Classes/ApplicationRouting.m": {
-			"hash": "a3359177a948411431bc0bda89d41539",
-			"mtime": "2017-10-25T20:57:21.000Z",
-			"size": 298588
+			"hash": "28bd1e7dd9cdb67e35f6b4698593b082",
+			"mtime": "2017-11-02T21:13:27.000Z",
+			"size": 297764
 		},
 		"modules/ui/images/badge.png": {
 			"hash": "4c5e51e328d337a135f513bc1e958c82",

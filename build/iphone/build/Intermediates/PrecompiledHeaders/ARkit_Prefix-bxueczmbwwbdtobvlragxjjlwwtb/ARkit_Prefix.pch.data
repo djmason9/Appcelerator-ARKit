@@ -7,9 +7,9 @@ BuilderIdent ProcessPCH++\ /Users/dmason/Syncplicity\\\ Folders/Appcelerator_Stu
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/SDKSettings.plist 0 1501277579 1001 33204
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/CoreServices/SystemVersion.plist 0 1504326705 490 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include/module.modulemap 0 1502294620 3867 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1508960734 369 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509049017 369 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/SDKSettings.plist 0 1501277579 1001 33204
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1508960734 369 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/ARkit_Prefix.pch 0 1509049017 369 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h 0 1502860576 6570 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h 0 1501906189 3248 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/usr/include/sys/types.h 0 1502509204 8071 33188
@@ -739,5 +739,5 @@ InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platf
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Frameworks/DocumentManager.framework/Headers/DocumentManager.h 0 1503111850 253 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Frameworks/DocumentManager.framework/Headers/UIDocumentBrowserViewController.h 0 1503112132 8578 33188
 InputFile    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk/System/Library/Frameworks/UIKit.framework/Frameworks/DocumentManager.framework/Headers/UIDocumentBrowserAction.h 0 1503111850 1689 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/defines.h 0 1508963088 1145 33188
-InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/ThirdpartyNS.h 0 1508963066 7192 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/defines.h 0 1509657207 1350 33188
+InputFile    /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/ThirdpartyNS.h 0 1509049016 7192 33188

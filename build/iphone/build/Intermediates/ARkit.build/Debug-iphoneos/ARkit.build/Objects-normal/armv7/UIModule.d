@@ -39,6 +39,7 @@ dependencies: \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiGradient.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiRect.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiViewTemplate.h \
+  /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/Ti2DMatrix.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiApp.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiHost.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/Bridge.h \

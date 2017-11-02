@@ -41,6 +41,7 @@ dependencies: \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/APSHTTPClient/APSHTTPResponse.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/APSHTTPClient/APSHTTPPostForm.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/APSHTTPClient/APSHTTPHelper.h \
+  /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/Ti2DMatrix.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiViewProxy.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiViewTemplate.h \
   /Users/dmason/Syncplicity\ Folders/Appcelerator_Studio_Workspace/ARkit/build/iphone/Classes/TiApp.h \

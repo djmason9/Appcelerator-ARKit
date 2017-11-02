@@ -62,10 +62,11 @@
 	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>Can we use your camera?</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Can we save to your library?</string>
-	<key>NSMicrophoneUsageDescription</key>
-	<string>Can we use your microphone?</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+		<string>arkit</string>
+	</array>
 	<key>NSAppTransportSecurity</key>
 	<dict>
 		<key>NSAllowsArbitraryLoads</key>

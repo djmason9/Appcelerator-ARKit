@@ -30,11 +30,11 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		PUtpgD8cKMsmtBtj2V8XuMtxwqk=
+		MyKxJ9AL4djbLVSp1U9gKJxgZIk=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J49hCSVH+WFsEprTCg/ulIsuAc0=
+		2IgY+FYBZR95n4VHb1mhydvJkhw=
 		</data>
 		<key>LaunchImage-700-568h@2x.png</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		8uiDujplqZD94Rec8RHjqYYKofE=
+		e6VdaIxwxa92pY/RNXI7vYCig9o=
 		</data>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -66,11 +66,15 @@
 		</data>
 		<key>LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		atTazsPmWru8bC7z9Dog47o0p2k=
+		DaUWB3s8NsUIQLSakV559Kxpgzw=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Titanium.scnassets/ti-logo.scn</key>
+		<data>
+		7073nPrGBiAK+e7ARgmfPd+JAQc=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -78,15 +82,15 @@
 		</data>
 		<key>modules/ui/images/badge.png</key>
 		<data>
-		V0FYZCpzFOcFA7n0Zak4eggMFNM=
+		T3OdafG36PE7yfH0+8nW1PtvPCM=
 		</data>
 		<key>modules/ui/images/closeButton.png</key>
 		<data>
-		Jwk5MaUrmhb1ltpyAhh0MwvF61c=
+		4d/l0LLN7MXqKQn9Rc8kkZ69/3o=
 		</data>
 		<key>modules/ui/images/photoDefault.png</key>
 		<data>
-		sDV6mhNqm2AcbtSqWvXToEw/JNU=
+		lLVMxC6YV4FmPpj98HVvSs0OFq8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -161,11 +165,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PUtpgD8cKMsmtBtj2V8XuMtxwqk=
+			MyKxJ9AL4djbLVSp1U9gKJxgZIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			uqcFo3soR6HeEQaOCB5yS4OaJPJ8asb2v9KjPkJjqmM=
+			4fdRKJR2QsxP4sZCg1ul2tekSWzV9m/39cjpZpftq1Y=
 			</data>
 		</dict>
 		<key>LaunchImage-700-568h@2x.png</key>
@@ -227,11 +231,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8uiDujplqZD94Rec8RHjqYYKofE=
+			e6VdaIxwxa92pY/RNXI7vYCig9o=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Lh4hXID9naMv/8lG4yUFlvP1u6+Ua+rQ2hSP+omIWA=
+			5wRNhOYu8pqTFbm5XhNCGoXeBy7JuAjTbsE9Ii0U0bQ=
 			</data>
 		</dict>
 		<key>LaunchScreen.storyboardc/Info.plist</key>
@@ -249,11 +253,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			atTazsPmWru8bC7z9Dog47o0p2k=
+			DaUWB3s8NsUIQLSakV559Kxpgzw=
 			</data>
 			<key>hash2</key>
 			<data>
-			0zBwNCyvrWVL7Eo5MonSMp20Zitrzv4fDVLe035pW7M=
+			kcIDMFmB7DiGEFJABPlXmFckbpbN3mWq/5a4JjnpOVE=
+			</data>
+		</dict>
+		<key>Titanium.scnassets/ti-logo.scn</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7073nPrGBiAK+e7ARgmfPd+JAQc=
+			</data>
+			<key>hash2</key>
+			<data>
+			dzHyGpB/4xqOGT1sMDS4ThEL4ZVjv7bIcCi/ap3GW/o=
 			</data>
 		</dict>
 		<key>embedded.mobileprovision</key>
@@ -271,33 +286,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V0FYZCpzFOcFA7n0Zak4eggMFNM=
+			T3OdafG36PE7yfH0+8nW1PtvPCM=
 			</data>
 			<key>hash2</key>
 			<data>
-			eF6gAh50Zq+3wYMIU2T8K/R0AdvaKoCtjj58AQ5ZhTA=
+			B3Q+t02pYAnwX8EAN0csN3uJ/HewubG7ahNMHV1kQcQ=
 			</data>
 		</dict>
 		<key>modules/ui/images/closeButton.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jwk5MaUrmhb1ltpyAhh0MwvF61c=
+			4d/l0LLN7MXqKQn9Rc8kkZ69/3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			bQG0t8ubF19VNnIUflg5XettMQH+3BmLkXjjQsA5BZ0=
+			5/JaGANgHAgeBHvnlhC7A0FNxW04TZipeooWR8F6umY=
 			</data>
 		</dict>
 		<key>modules/ui/images/photoDefault.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sDV6mhNqm2AcbtSqWvXToEw/JNU=
+			lLVMxC6YV4FmPpj98HVvSs0OFq8=
 			</data>
 			<key>hash2</key>
 			<data>
-			XXC01m3l3XECf38WZV0YLR+AVuPhC2Td7m3CEUfmGqE=
+			S74Fh0DVmpMRSYggD6OnjifLYP+HnewOOhPX62tCbg8=
 			</data>
 		</dict>
 	</dict>

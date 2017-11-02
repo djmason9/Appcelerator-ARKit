@@ -47,15 +47,13 @@
                 <false/>
                 <key>UIStatusBarStyle</key>
                 <string>UIStatusBarStyleDefault</string>
-                
-            
-	            <key>NSCameraUsageDescription</key>
-	            <string>Can we use your camera?</string>
-	            <key>NSPhotoLibraryUsageDescription</key>
-	            <string>Can we save to your library?</string>
-	            <key>NSMicrophoneUsageDescription</key>
-	            <string>Can we use your microphone?</string>
-	            
+                <key>NSCameraUsageDescription</key>
+                <string>Can we use your camera?</string>
+                <key>UIRequiredDeviceCapabilities</key>
+                <array>
+                    <string>armv7</string>
+                    <string>arkit</string>
+                </array>
             </dict>
         </plist>
     </ios>
