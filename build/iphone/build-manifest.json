@@ -3286,9 +3286,9 @@
 			"size": 53706
 		},
 		"Titanium.scnassets/ship.scn": {
-			"hash": "df4849eb8297b7ade97a5d3382e0326d",
-			"mtime": "2017-11-02T22:07:59.000Z",
-			"size": 214794
+			"hash": "10bc548f57051d6f5576513525909a19",
+			"mtime": "2017-11-03T20:18:11.000Z",
+			"size": 215670
 		},
 		"Titanium.scnassets/ti-logo.scn": {
 			"hash": "9a6283ea5647d91f6ce9da6eed18a130",
@@ -3297,7 +3297,7 @@
 		},
 		"alloy_generated": {
 			"hash": "b9b62e3e10ab98f03010e1fe8362c390",
-			"mtime": "2017-11-02T22:15:15.000Z",
+			"mtime": "2017-11-03T20:18:11.000Z",
 			"size": 279
 		},
 		"Default-568h@2x.png": {
@@ -3335,15 +3335,25 @@
 			"mtime": "2017-11-02T22:02:03.000Z",
 			"size": 2320007
 		},
+		"Titanium.scnassets/texture/texture.png": {
+			"hash": "4f54f703bd9643cfbc6ba114e25fd377",
+			"mtime": "2017-11-02T22:18:00.000Z",
+			"size": 349666
+		},
 		"Titanium.scnassets/texture.png": {
 			"hash": "4f54f703bd9643cfbc6ba114e25fd377",
 			"mtime": "2017-11-02T22:07:59.000Z",
 			"size": 349666
 		},
+		"texture.png": {
+			"hash": "4f54f703bd9643cfbc6ba114e25fd377",
+			"mtime": "2017-11-02T22:18:00.000Z",
+			"size": 349666
+		},
 		"Classes/ApplicationRouting.m": {
-			"hash": "2906e222fd4a56fad1693c2036c8959d",
-			"mtime": "2017-11-02T22:15:19.000Z",
-			"size": 297930
+			"hash": "6236ea8c60327850400da3fdf0d02c13",
+			"mtime": "2017-11-03T20:09:25.000Z",
+			"size": 297764
 		},
 		"modules/ui/images/badge.png": {
 			"hash": "4c5e51e328d337a135f513bc1e958c82",
@@ -3364,7 +3374,7 @@
 	"target": "device",
 	"deployType": "test",
 	"sdkVersion": "6.2.2.GA",
-	"iosSdkVersion": "11.0",
+	"iosSdkVersion": "11.1",
 	"deviceFamily": "iphone",
 	"iosSdkPath": "/Users/dmason/Library/Application Support/Titanium/mobilesdk/osx/6.2.2.GA/iphone",
 	"tiCoreHash": "5710cda7b179a3c8391cc94011e308de",
